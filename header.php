@@ -12,6 +12,7 @@
 <html <?php language_attributes(); ?>>
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--[if IE]>
 <meta http-equiv="x-ua-compatible" content="IE=edge" />
 <![endif]-->
